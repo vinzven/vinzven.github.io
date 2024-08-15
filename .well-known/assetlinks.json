@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.shoesheaven.app",
+    "sha256_cert_fingerprints":
+    ["92:47:CF:89:0E:32:56:73:29:DF:74:17:12:2A:00:24:60:B6:87:49:0F:2D:89:49:8D:33:4E:CB:33:58:35:B2"]
+  }
+}]
