@@ -1,1 +1,1 @@
-vinzven.github.io
+vinzven.github.io/.well-known
